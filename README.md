@@ -1,4 +1,4 @@
 # TheGallery
 
 A curated gallery celebrating confidence and the sensuality.
-https://themodularoperator.github.io/thegallery/
+thegallery.42web.io
